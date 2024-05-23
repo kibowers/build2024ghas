@@ -12,7 +12,6 @@ namespace ReadingTime6.Web
         {
             Configuration = configuration;
             var pat = "{put your pat here}";
-
         }
 
         public IConfiguration Configuration { get; }
